@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Demo';
   text='sai'
-  text2='dbqwbdlnqwoidbwqiugd'
+  text22='bdibwi'
 }
